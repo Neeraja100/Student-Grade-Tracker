@@ -18,11 +18,10 @@ This project is designed for quick evaluation of a student's academic performanc
 
 ## ✨ Features
 
-- 🔢 Input validation for marks (0-100)
-- 📊 Subject-wise and final grade display
-- 🎯 Final percentage and average calculation
-- 💬 Grade-based performance remarks
-- 🖼️ Organized project folder with screenshots
+- 🔢 Takes input of students' marks.
+- 📊 Displays marks and grades subject wise.
+- 🎯 Gives final percentage and average calculation.
+- 🖼️ Gives you your overall average grade accordingly.
 
 ---
 
